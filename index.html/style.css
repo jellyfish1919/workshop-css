@@ -1,0 +1,28 @@
+.nav-list li{
+    display: inline;
+    color:white;
+    padding: 1%;
+    text-decoration: none;
+    
+}
+.nav-list a{
+    color:white;
+    text-decoration: none;
+    
+}
+.nav-list{
+    background-color: gray;
+    padding: 1%;
+    text-align: center;
+}
+.roboto-regular {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+footer{
+    background-color: gray;
+    padding: 1%;
+    text-align: center;
+    color: white;
+}
